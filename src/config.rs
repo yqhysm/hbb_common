@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["22.139.123.7"];
-pub const RS_PUB_KEY: &str = base64Decode('NFY5ZGQ5VlBreHJUREtjbTYyekZDdHpGdEpTRWhVR0dWK1NZMVYyR295cz0=');
+pub const RS_PUB_KEY: &str = base64Decode('修改密钥');
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
